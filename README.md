@@ -25,7 +25,7 @@ A classic **Rock Paper Scissors** game built with **HTML, CSS, and JavaScript**.
 
 ## Screenshot
 
-![Screenshot of the Rock Paper Scissors Game](main.png)
+![Screenshot of the Rock Paper Scissors Game](main.PNG)
 
 ## Demo
 
